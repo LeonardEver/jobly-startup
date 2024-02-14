@@ -7,3 +7,5 @@ SELECT * FROM tabela
 WHERE condição = 'valor';
 
 ```
+
+<p>TESTE 2</p>
